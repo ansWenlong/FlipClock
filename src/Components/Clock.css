@@ -13,12 +13,12 @@
 }
 
 .timeContainer {
-    background-color: darkblue;
+    background-color: black;
     border-radius: 10px;    
     color: white;
     padding: 10px;
     font-size: 40vh;
     margin: 10px;
     width: 32vw ;
-    height: 90vh;
+    height: 70vh;
 }
